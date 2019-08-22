@@ -1,5 +1,5 @@
 # noon.com
-Test Project of noon.com
+Test Project noon.com
 
 1. Create a custom folder in 
 C:>Users>YourName>YourProjectName>node_modules>.bin>cypress>integration
